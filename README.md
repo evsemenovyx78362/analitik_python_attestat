@@ -1,0 +1,1 @@
+# analitik_python_attestat
